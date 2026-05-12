@@ -4,7 +4,8 @@
 
 # Diagrama Actividad
 
-Docente:Willman Acosta  
+Docente:Willman Acosta 
+Nombre y Apellidos: Alba Duran Bernal y Roberto Heredia Chaves
 Fecha: 12/05/2026
 
 **Tabla de Contenido:**
