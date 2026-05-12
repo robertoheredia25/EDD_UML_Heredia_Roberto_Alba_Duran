@@ -34,7 +34,7 @@ Se representa con una barra ya sea horizontal o vertical se usa para dividir un 
 
 1. **OMG (Object Management Group):** Consultar la especificación formal de UML en [https://www.omg.org/spec/UML/](https://www.omg.org/spec/UML/).  
 2. **IBM Documentation:** "UML activity diagrams", 2021\. Disponible en: [https://www.ibm.com/docs/en/rhapsody/9.0.1?topic=diagrams-uml-activity](https://www.ibm.com/docs/en/rhapsody/9.0.1?topic=diagrams-uml-activity).  
-3. **Visual Paradigm:** "UML Activity Diagram Tutorial". Disponible en: [https://www.visual-paradigm.com/guide/uml/what-is-activity-diagram/](https://www.visual-paradigm.com/guide/uml/what-is-activity-diagram/).
+
 
 ## 
 
