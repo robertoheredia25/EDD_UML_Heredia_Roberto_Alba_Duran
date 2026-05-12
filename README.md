@@ -54,6 +54,10 @@ Debéis representar el proceso de "Confirmación de Pedido" de una tienda online
    * Envío de notificación por correo electrónico.  
 5. **Cierre:** Una vez finalizadas *todas* las tareas del punto anterior (Uso de *Join*), se muestra el mensaje de confirmación al cliente.
 
+<p align="center">
+  <img src="img/imagen1.png" alt="IMAGEN1" width="500">
+</p>
+
 ## Fase 3: Entrega Profesional en GitHub (30 minutos) {#fase-3:-entrega-profesional-en-github-(30-minutos)}
 
 Un desarrollador profesional se define por cómo entrega su trabajo.
